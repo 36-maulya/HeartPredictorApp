@@ -1,19 +1,23 @@
 # HeartPredictorApp 🫀
 
-A Java Swing desktop application that predicts heart attack risk based on user inputs.
+A Java Swing desktop application that predicts heart attack risk based on user health inputs.
 
 ## 💡 Features
 
-- ✅ User-friendly GUI with a hospital background
-- 🔒 Input validation for age, blood pressure, cholesterol, etc.
-- 🤖 Sends data to a backend ML model via API for prediction
-- 📊 Displays "High Risk" or "Low Risk" along with doctor tips
+- ✅ User-friendly GUI with a hospital background image
+- 🔒 Input validation for fields like Age, BP, Cholesterol, etc.
+- 🤖 Sends data to a backend ML model via API
+- 📊 Displays prediction with doctor-friendly health advice
+
+## 🖼️ Screenshot
+
+![App Screenshot](screenshot.png)
 
 ## 🛠️ Technologies Used
 
 - Java (Swing)
 - REST API (HTTP)
-- Backend ML Model (Flask - optional)
+- Backend ML Model (Flask or similar)
 - Git + GitHub
 
 ## 🖥️ How to Run
