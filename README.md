@@ -9,10 +9,6 @@ A Java Swing desktop application that predicts heart attack risk based on user h
 - 🤖 Sends data to a backend ML model via API
 - 📊 Displays prediction with doctor-friendly health advice
 
-## 🖼️ Screenshot
-
-![App Screenshot](screenshot.png)
-
 ## 🛠️ Technologies Used
 
 - Java (Swing)
